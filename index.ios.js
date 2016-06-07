@@ -5,6 +5,7 @@
  */
 
 import React, { Component } from 'react';
+import {TextBody} from './src/title.jsx';
 import {
   AppRegistry,
   Image,
